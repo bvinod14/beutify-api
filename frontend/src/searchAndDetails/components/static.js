@@ -1,1 +1,1 @@
-export const APIJSON = {}
+export const APIJSON = {};
